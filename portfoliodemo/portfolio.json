@@ -1,7 +1,12 @@
 {
 	"painting": [
 		{
-			"name": "Portfolio"
+			"name": "d",
+			"@type": "Painting"
+		},
+		{
+			"name": "Portfolio",
+			"@type": "Painting"
 		}
 	]
 }
